@@ -1,0 +1,10 @@
+{
+  "name": "ShareHood",
+  "version": "0.0.1",
+  "description": "application for pre sharing",
+  "author": "Jeet Shah <jshsh92@csu.fullerton.edu>",
+  "dependencies": {
+    "express": "4.2.x",
+    "mongodb": "*"
+   }
+}
